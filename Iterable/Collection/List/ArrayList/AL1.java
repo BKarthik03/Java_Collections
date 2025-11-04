@@ -2,7 +2,8 @@ package Iterable.Collection.List.ArrayList;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
-class AL1{
+public class AL1{
+
     public static void main(String args[]){
         ArrayList<Integer> sample = new ArrayList<>(20);
         sample.add(1);
